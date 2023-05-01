@@ -92,4 +92,27 @@
         [Исходный код](https://github.com/0xMihalich/alterfat)
 
 5. **UUID_Changer**
-    - программа для автоматического выбора нужного UUID для записи IMEI в новую материнскую плату на устройствах Blackview и Oukitel
+    - программа для быстрого выбора нужного UUID для записи IMEI, T-Key и Google Key в новую материнскую плату на устройствах Blackview и Oukitel
+        <details><summary>Скриншот</summary>
+            <img src="https://github.com/0xMihalich/my_projects_for_all/blob/main/images/uuid_changer/screen.jpg" width="500">
+        </details>
+        <details><summary>Описание</summary>
+            <dl>
+                <dt>Список доступных моделей на данный момент:</dt>
+                <dd>**Blackview**: A60, A60Pro, A80, A80Pro, A100, BV4900, BV4900Pro, BV5500Pro, BV5500Plus, BV5900, BV6600, BV6600PRO, BV6900, BV8800, BV9100, BV9500Plus, BV9900E, TAB10</dd>
+                <dd>**Oukitel**: C21Pro, WP5, WP5Pro, WP8Pro, WP9, WP12, WP12Pro, WP13, WP15, WP16</dd>
+                <dd>Для добавления новой модели необходимо отредактировать файл models.ini</dd>
+                <dd>Для обновления ip-адреса и названия сервера необходимо отредактировать файл **settings.ini**</dd>
+                <dd>Для автоматического обновления файла **C:\Windows\System32\drivers\etc\hosts** программа должна быть запущена **от имени администратора**</dd>
+                <dt>Как пользоваться:</dt>
+                <dd>1. Запуастить программу и указать путь до **SN_Write_Tool**, которой будем пользоваться</dd>
+                <dd>2. Если путь к программе верный, станет активна кнопка **Start SN Write Tool**, если путь неверный, кнопка останется серой</dd>
+                <dd>3. При верном указании директории программы путь к программе автоматически сохраниться в файле **settings.ini**</dd>
+                <dd>4. Выбрать брэнд и нужную модель из списка</dd>
+                <dd>5. Нажать на **Start SN Write Tool**</dd>
+                <dd>6. Программа автоматически внесет изменения в файл **[SN Write Tool]\tee_stuff\kph_in\kph_env.ini** и запустит программу **SN_Write_Tool**</dd>
+            </dl>
+        </details>
+    
+        [Скачать готовую сборку для Windows 7-11 x64](https://drive.google.com/file/d/1jQ13g-LEaWoPg9NQuT67ViTAvldLSVFL)
+        Пароль на архив 12345678
