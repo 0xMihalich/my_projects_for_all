@@ -2,9 +2,9 @@
 
 1. **Senex**
     - виджет рабочего стола, показывающий информацию о погоде и пробках на дорогах
-    ![](https://github.com/0xMihalich/Senex/blob/main/Senex.jpg?raw=true)
+    <img src="https://github.com/0xMihalich/Senex/blob/main/Senex.jpg" width="200">
     <details><summary>Скриншот</summary>
-    
+    <img src="https://github.com/0xMihalich/Senex/blob/main/Senex.jpg" width="200">
     </details>
 2. **Savedgram**
     - автоматическое сохранение файлов и фото из Telegram в нужную папку на рабочем ПК через фоновое приложение
