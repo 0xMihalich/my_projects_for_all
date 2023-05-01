@@ -123,6 +123,11 @@
         Если у кого-то есть что-то из этого списка, свяжитесь со мной любым удобным способом
 
 Связь со мной:
-[Telegram @OxMihalich](https://t.me/OxMihalich)
-[Whatsapp +7924-252-59-87](https://api.whatsapp.com/send?phone=79242525987)
+
+[Telegram](https://t.me/OxMihalich)
+
+[Whatsapp](https://api.whatsapp.com/send?phone=79242525987)
+
+[Skype](https://join.skype.com/invite/dncj29ggTB8o)
+
 [Мой Github](https://github.com/0xMihalich)
