@@ -15,9 +15,9 @@
             </dl>
         </details>
     
-    [Исходный код](https://github.com/0xMihalich/Senex)
+        [Скачать готовую сборку для Windows 7-11 x32/x64](https://drive.google.com/file/d/1RIPkeBIyG_7yPNlL0slLLRwTdt-hnwDs)
 
-    [Скачать готовую сборку для Windows 7-11 x32/x64](https://drive.google.com/file/d/1RIPkeBIyG_7yPNlL0slLLRwTdt-hnwDs)
+        [Исходный код](https://github.com/0xMihalich/Senex)
 
 2. **Savedgram**
     - автоматическое сохранение файлов и фото из Telegram в нужную папку на рабочем ПК через фоновое приложение
