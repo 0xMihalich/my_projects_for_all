@@ -21,6 +21,10 @@
 
 2. **Savedgram**
     - автоматическое сохранение файлов и фото из Telegram в нужную папку на рабочем ПК через фоновое приложение
+    
+        [Скачать готовую сборку для Windows 10 x64](https://drive.google.com/file/d/1wM1NItkEjfd1CZiDQdb0kq6cyuet-Ml5)
+
+        [Исходный код](https://github.com/0xMihalich/Savedgram)
 3. **WEBMConvertor**
     - программа для конвертации любого видео в формат WEBM с выбором сжатия и возможностью отрезать звук для загрузки во внешние данные
 4. **AlterFAT**
