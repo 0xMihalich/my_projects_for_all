@@ -21,6 +21,11 @@
 
 2. **Savedgram**
     - автоматическое сохранение файлов и фото из Telegram в нужную папку на рабочем ПК через фоновое приложение
+        <details><summary>Скриншоты</summary>
+            <img src="https://github.com/0xMihalich/my_projects_for_all/blob/main/images/savedgram/main.png" width="500">
+            <img src="https://github.com/0xMihalich/my_projects_for_all/blob/main/images/savedgram/tray1.png" width="500">
+            <img src="https://github.com/0xMihalich/my_projects_for_all/blob/main/images/savedgram/tray2.png" width="500">
+        </details>
     
         [Скачать готовую сборку для Windows 10 x64](https://drive.google.com/file/d/1wM1NItkEjfd1CZiDQdb0kq6cyuet-Ml5)
 
