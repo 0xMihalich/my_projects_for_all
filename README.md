@@ -45,6 +45,25 @@
         [Исходный код](https://github.com/0xMihalich/Savedgram)
 3. **WEBMConvertor**
     - программа для конвертации любого видео в формат WEBM с выбором сжатия и возможностью отрезать звук для загрузки во внешние данные
+        <details><summary>Скриншот</summary>
+            <img src="https://github.com/0xMihalich/my_projects_for_all/blob/main/images/webmconv/screenshot.jpg" width="500">
+        </details>
+        <details><summary>Описание</summary>
+            <dl>
+                <dt>Конвертация любого видео в формат WEBM VP9</dt>
+                <dt>Поддерживаемые форматы видео:</dt>
+                <dd>.264 .3g2 .3gp .3gp2 .3gpp .amv .asf .avchd .avi .bdmv .bik .dav .divx .dv .evo .f4v .flv .gif .hdmov .ifo .ivf .m1v .m2p .m2t .m2ts .m2v .m4v .mk3d .mkv .mov .mp2v .mp4 .mp4v .mpe .mpeg .mpg .mpls .mpv .mpv2 .mpv4 .mts .mxf .ogm .ogv .png .qt .ram .rec .rm .rmvb .smk .ssif .swf .tp .trp .ts .video .vob .webm .wmv .wtv</dd>
+                <dt>Доступные настройки:</dt>
+                <dd>Изменить имя сохраняемого файла.</dd>
+                <dd>Выбрать степень сжатия.</dd>
+                <dd>Убрать звук из видео.</dd>
+                <dt>Зависит от Ffmpeg, для исключения вопросов как его установить актуальная версия уже добавлена в программу</dt>
+                <dt>Сборка для других систем мной делаться не будет, но по запросу дам исходники программы если кто-то хочет собрать под MacOS или Linux</dt>
+            </dl>
+        </details>
+    
+        [Скачать готовую сборку для Windows 7-11 x32/x64](https://drive.google.com/file/d/13iv7m-TMGOBJGmFR-JskkKHiQcYKJQok)
+
 4. **AlterFAT**
     - программа для быстрого форматирования карт памяти и USB-флешек емкостью от 9 КБ до 2 ТБ в FAT12/FAT16/FAT32/exFAT. Доступно форматирование раздела более 32 ГБ в FAT32
 5. **UUID_Changer**
