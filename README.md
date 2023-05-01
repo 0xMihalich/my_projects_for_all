@@ -40,7 +40,7 @@
             </dl>
         </details>
     
-        [Скачать готовую сборку для Windows 10 x64](https://drive.google.com/file/d/1wM1NItkEjfd1CZiDQdb0kq6cyuet-Ml5)
+        [Скачать готовую сборку для Windows 10-11 x64](https://drive.google.com/file/d/1wM1NItkEjfd1CZiDQdb0kq6cyuet-Ml5)
 
         [Исходный код](https://github.com/0xMihalich/Savedgram)
 3. **WEBMConvertor**
