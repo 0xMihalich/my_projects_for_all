@@ -124,10 +124,10 @@
 
 Связь со мной:
 
-    [Telegram](https://t.me/OxMihalich)
+[Telegram](https://t.me/OxMihalich)
 
-    [Whatsapp](https://api.whatsapp.com/send?phone=79242525987)
+[Whatsapp](https://api.whatsapp.com/send?phone=79242525987)
 
-    [Skype](https://join.skype.com/invite/dncj29ggTB8o)
+[Skype](https://join.skype.com/invite/dncj29ggTB8o)
 
 [Мой Github](https://github.com/0xMihalich)
