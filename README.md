@@ -117,3 +117,12 @@
         [Скачать готовую сборку для Windows 7-11 x64](https://drive.google.com/file/d/1jQ13g-LEaWoPg9NQuT67ViTAvldLSVFL)
         
         #### Пароль на архив 12345678
+        
+        **ВНИМАНИЕ!** В поиске **UUID** для **Blackview A80S BV5100 BV5100Pro BV5500 BV6100 BV6300 BV6300Pro BV9700Pro BV9800 BV9800Pro BV9900 BV9900Pro** и **DEXP GS153**
+        
+        Если у кого-то есть что-то из этого списка, свяжитесь со мной любым удобным способом
+
+Связь со мной:
+[Telegram @OxMihalich](https://t.me/OxMihalich)
+[Whatsapp +7924-252-59-87](https://api.whatsapp.com/send?phone=79242525987)
+[Мой Github](https://github.com/0xMihalich)
