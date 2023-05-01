@@ -122,13 +122,12 @@
         
         Если у кого-то есть что-то из этого списка, свяжитесь со мной любым удобным способом
 
-<details><summary>Связь со мной:</summary>
+Связь со мной:
+
     [Telegram](https://t.me/OxMihalich)
 
     [Whatsapp](https://api.whatsapp.com/send?phone=79242525987)
 
     [Skype](https://join.skype.com/invite/dncj29ggTB8o)
-
-</details>
 
 [Мой Github](https://github.com/0xMihalich)
