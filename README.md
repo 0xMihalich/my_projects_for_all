@@ -6,9 +6,12 @@
         <img src="https://github.com/0xMihalich/Senex/blob/main/Senex.jpg" width="500">
     </details>
     <details><summary>Подробное описание</summary>
-        ```
-        Приложение работает как виджет, закрытие программы и другие настройки доступны при нажатии правой кнопкой на значек в трее.
-        ```
+        <dl>
+          <dt>Lower cost</dt>
+          <dd>The new version of this product costs significantly less than the previous one!</dd>
+          <dt>Easier to use</dt>
+          <dd>We've changed the product so that it's much easier to use!</dd>
+        </dl>
     <table>
         <tr>
             <th>Приложение работает как виджет, закрытие программы и другие настройки доступны при нажатии правой кнопкой на значек в трее.</th>
