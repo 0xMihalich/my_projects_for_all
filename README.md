@@ -5,7 +5,7 @@
     <details><summary>Скриншот</summary>
         <img src="https://github.com/0xMihalich/Senex/blob/main/Senex.jpg" width="500">
     </details>
-    <details><summary>Подробное описание</summary>
+    <details><summary>Описание</summary>
         <dl>
             <dt>Приложение работает как виджет, закрытие программы и другие настройки доступны при нажатии правой кнопкой на значек в трее.</dt>
             <dt>Ограничения:</dt>
