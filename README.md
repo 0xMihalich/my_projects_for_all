@@ -114,7 +114,7 @@
             </dl>
         </details>
     
-        [Скачать готовую сборку для Windows 7-11 x64](https://drive.google.com/file/d/1jQ13g-LEaWoPg9NQuT67ViTAvldLSVFL)
+        [Скачать готовую сборку для Windows 7-11 x64](https://drive.google.com/file/d/1sEqvT6wbYuaClYMum1OOLuqb2KX618Po)
         
         #### Пароль на архив 12345678
         
